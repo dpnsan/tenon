@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'awesome_nested_set', '3.0.0.rc.5'
   s.add_dependency 'aws-s3', '0.6.3'
-  s.add_dependency 'aws-sdk', '1.8.1.3'
+  s.add_dependency 'aws-sdk'
   s.add_dependency 'cancan', '1.6.10'
   s.add_dependency 'cocoon', '1.2.6'
   s.add_dependency 'coffee-rails', '4.1.0'
