@@ -65,7 +65,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'nokogiri', '>=1.5.11'
   s.add_dependency 'non-stupid-digest-assets', '1.0.4'
   s.add_dependency 'normalize-rails', '3.0.1'
-  s.add_dependency 'paperclip', '4.1.1'
+  s.add_dependency 'paperclip'
   s.add_dependency 'rails-observers', '0.1.2'
   s.add_dependency 'rails-settings-cached', '0.4.1'
   s.add_dependency 'rdiscount', '2.0.7.3'
