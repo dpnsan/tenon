@@ -40,7 +40,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'coffee-rails', '4.1.0'
   s.add_dependency 'coffee-script-source', '1.9.1'
   s.add_dependency 'daemons', '1.1.9'
-  s.add_dependency 'devise', '3.1.2'
+  s.add_dependency 'devise'
   s.add_dependency 'draper', '1.3.0'
   s.add_dependency 'dynamic_form', '1.1.4'
   s.add_dependency 'eco', '1.0.0'
